@@ -17,3 +17,4 @@ export default function Cocktail({ image, name, id, info, glass }) {
     </article>
   )
 }
+//
